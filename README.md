@@ -21,6 +21,27 @@ Make sure to update the `"Webhook URL"` placeholder with the actual URL of your 
 
 Remember to regularly update the script and README file to incorporate any improvements, bug fixes, or updates.
 
+## 🎨 Developers
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/StevenK-293">
+        <img src="https://avatars.githubusercontent.com/u/116656099?v=4" height="100" width="100" alt="StevenK-293 avatar" />
+        <br>
+        <span><strong>StevenK-293</strong></span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YellowGreg">
+        <img src="https://avatars.githubusercontent.com/u/101320329?v=4" height="100" width="100" alt="YellowGreg avatar" />
+        <br>
+        <span><strong>YellowGreg</strong></span>
+      </a>
+    </td>
+  </tr>
+</table>
+
 # Random Image
 
 ![Screenshot 2023-07-23 223913](https://github.com/StevenK-293/Roblox-Player-Info-Webhook/assets/116656099/a13e9c23-d32b-4b87-a88a-92aae5f1b21d)

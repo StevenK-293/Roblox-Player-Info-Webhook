@@ -21,7 +21,7 @@ Make sure to update the `"Webhook URL"` placeholder with the actual URL of your 
 
 Remember to regularly update the script and README file to incorporate any improvements, bug fixes, or updates.
 
-## 🎨 Developers
+## Developers
 
 <table align="center">
   <tr>

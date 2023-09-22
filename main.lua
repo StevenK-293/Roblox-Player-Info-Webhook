@@ -40,7 +40,7 @@ local function createWebhookData()
         ["embeds"] = {
             {
                 ["author"] = {
-                    ["name"] = "Some executed your gay script",
+                    ["name"] = "Someone executed your script",
                     ["url"] = "https://roblox.com",
                 },
                 ["description"] = string.format(
@@ -56,8 +56,10 @@ local function createWebhookData()
                     GetData, ConsoleJobId
                 ),
                 ["type"] = "rich",
-                ["color"] = tonumber(FFD700), 
-                ["thumbnail"] = {["url"] = "https://www.roblox.com/headshot-thumbnail/image?userId="..Userid.."&width=150&height=150&format=png"},
+                ["color"] = tonumber("0xFFD700"), -- Change the color if you want
+                ["thumbnail"] = {
+                    ["url"] = "https://www.roblox.com/headshot-thumbnail/image?userId="..Userid.."&width=150&height=150&format=png"
+                },
             }
         }
     }
@@ -76,7 +78,7 @@ local function sendWebhook(webhookUrl, data)
 end
 
 -- Replace the webhook URL with your own URL
-local webhookUrl = "Roblox Webhook Here"
+local webhookUrl = "Your webhook here"
 local webhookData = createWebhookData()
 
 -- Sending the webhook

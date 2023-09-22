@@ -35,7 +35,7 @@ local function createWebhookData()
     local webhookcheck = detectExecutor()
     
     local data = {
-        ["avatar_url"] = "https://i.pinimg.com/564x/75/43/da/7543daab0a692385cca68245bf61e721.jpg",
+        ["avatar_url"] = "https://i.pinimg.com/564x/75/43/da/7543daab0a692385cca68245bf61e721.jpg", -- change the image if you want
         ["content"] = "",
         ["embeds"] = {
             {
@@ -56,7 +56,7 @@ local function createWebhookData()
                     GetData, ConsoleJobId
                 ),
                 ["type"] = "rich",
-                ["color"] = tonumber("0xFFD700"), -- Gold color
+                ["color"] = tonumber("0xFFD700"), -- Change this color if you want
                 ["thumbnail"] = {
                     ["url"] = "https://www.roblox.com/headshot-thumbnail/image?userId="..Userid.."&width=150&height=150&format=png"
                 },

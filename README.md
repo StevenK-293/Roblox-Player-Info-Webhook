@@ -12,10 +12,10 @@ The script can be customized to fit your specific needs. Here are a few areas yo
 - Additional functionality: You can extend the script to include more player information or integrate with other systems by modifying the `constructWebhookData` function.
 
 # Error Handling
-- The script includes basic error handling for HTTP requests and JSON decoding. However, it's recommended to further enhance error handling based on your specific requirements.
+- The script includes basic error handling for HTTP requests and JSON decoding. However, it's recommended to further upgrade the error handling based on your specific requirements.
 
 # Contributing
-- Contributions to the script are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
+- Contributions to the script are welcome. Feel free to fork this repository, make improvements, and submit a pull request.
 
 Make sure to update the `"Webhook URL"` placeholder with the actual URL of your webhook. Also, consider adding a license to your repository and providing any additional documentation or instructions that may be helpful for users.
 
